@@ -1,5 +1,7 @@
 # Node Secure Config
 
+[![Build Status](https://travis-ci.org/AppPress/node-secure-config.png?branch=master)](https://travis-ci.org/AppPress/node-secure-config)
+
 Configure node apps with plain and encrypted JSON files
 
 ## License
