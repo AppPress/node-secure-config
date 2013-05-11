@@ -1,0 +1,24 @@
+{
+    "name" : "secure-config",
+    "description" : "Configure node apps with plain and encrypted JSON files",
+    "version" : "0.0.1",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/AppPress/node-secure-config.git"
+	},
+	"keywords": [
+		"config",
+		"settings",
+		"secure"
+	],
+	"author": "App Press",
+	"license": "MIT",
+	"readmeFilename": "README.md",
+	"dependencies": {
+		"ursa": "0.8.0"
+	},
+	"devDependencies": {
+		"vows": "0.7.0"
+	}
+}
