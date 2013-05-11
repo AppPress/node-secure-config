@@ -23,5 +23,8 @@
 	},
 	"scripts": {
 		"test": "vows --spec"
+	},
+	"engines": {
+		"node": ">=0.8"
 	}
 }
