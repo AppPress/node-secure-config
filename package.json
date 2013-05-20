@@ -1,7 +1,7 @@
 {
     "name" : "secure-config",
     "description" : "Configure node apps with plain and encrypted JSON files",
-    "version" : "0.0.1-1",
+    "version" : "0.0.1-2",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
